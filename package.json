@@ -1,5 +1,6 @@
 {
   "name": "auth0-nextjs",
+  "description": "Basic auth app created following Auth0 documentation, to learn more about the library.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
